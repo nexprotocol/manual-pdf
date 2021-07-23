@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+# What are the sorts of Manual? 
 
-You can use the [editor on GitHub](https://github.com/nexprotocol/manual-pdf/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+1. Orders of Manual 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2. Item Manual. This is additionally called the "Guidance Manual".
 
-### Markdown
+3. Establishment Manual. This is a Manual on the most proficient method to set-up or introduce the item. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4. Investigate Manual. A sort of Manual used to fix portions of the item. 
 
-```markdown
-Syntax highlighted code block
+5. Client Manuals. 
 
-# Header 1
-## Header 2
-### Header 3
+6. Tasks Manual. 
 
-- Bulleted
-- List
+7. Emergency Management Manual. 
 
-1. Numbered
-2. List
+8. Review Manual. 
 
-**Bold** and _Italic_ and `Code` text
+## Where would i be able to discover old User Manuals? 
 
-[Link](url) and ![Image](src)
-```
+More often than not, the least demanding spot to discover guidance Manuals is from the producer's site. Visit their webpage, go to any "Backing" or "Client Care" segments, and check whether there's an alternative some place for downloading Manuals. 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Client Manuals have the ability to tackle issues before they even show up, giving clients all the pertinent data in a single spot; no lines, no pressure. This implies that this sort of client service material is exceptionally proficient. More individuals will actually want to get the data they need without holding up in line. 
 
-### Jekyll Themes
+The areas of a User Manual regularly include: 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nexprotocol/manual-pdf/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+1. A cover page. 
 
-### Support or Contact
+2. A cover sheet and copyright page. 
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+3. An introduction, containing subtleties of related archives and data on the most proficient method to explore the client guide. 
+
+4. A substance page. 
+
+5. A Purpose area.
+
