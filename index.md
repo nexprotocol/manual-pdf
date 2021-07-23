@@ -1,6 +1,6 @@
 # What are the sorts of Manual? 
 
-1. Orders of Manual 
+1. Orders of [HP Laserjet Pro M15W Manual](https://nexprotocol.com/hp-laserjet-pro-m15w-manual-pdf-guide-free/) 
 
 2. Item Manual. This is additionally called the "Guidance Manual".
 
@@ -22,7 +22,7 @@ More often than not, the least demanding spot to discover guidance Manuals is fr
 
 Client Manuals have the ability to tackle issues before they even show up, giving clients all the pertinent data in a single spot; no lines, no pressure. This implies that this sort of client service material is exceptionally proficient. More individuals will actually want to get the data they need without holding up in line. 
 
-The areas of a User Manual regularly include: 
+The areas of a [User Manual](https://nexprotocol.com) regularly include: 
 
 1. A cover page. 
 
@@ -32,5 +32,5 @@ The areas of a User Manual regularly include:
 
 4. A substance page. 
 
-5. A Purpose area.
+5. A Purpose area for [HP Envy Photo 7155 Manual](https://nexprotocol.com/hp-envy-photo-7155-manual/).
 
